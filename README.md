@@ -1,7 +1,7 @@
 <h1>Proyecto y entregabables ADSO</h1>
 ![logo4](https://github.com/senacti/project-scrum-4-agroservice/assets/167369251/649d8517-ef34-432e-8056-83ec019365cf)
 
-<h2>Objetivo general 🎯</h2>!
+<h2>Objetivo general 🎯</h2>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 <br>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
 <h2>Objetivos específicos 🎯</h2>
