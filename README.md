@@ -3,7 +3,7 @@
 
 <h2>Objetivo general 🎯</h2>!
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
+<br>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
 <h2>Objetivos específicos 🎯</h2>
 <ul>
   <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
