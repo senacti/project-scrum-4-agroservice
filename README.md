@@ -21,7 +21,7 @@ y los recursos invertidos en la producción agrícola, los márgenes
 de ganancia son mínimos, lo que pone en riesgo la sostenibilidad
 económica de las familias campesinas
 </p>
-<h2>Justificación 📃</h2>
+<h2>Proposito📃</h2>
 <p>el propósito del documento es comunicar de manera clara y detallada los aspectos claves del proyecto ,Se detallan los objetivos que se esperan lograr , como aumentar las ventas de los productores campesinos, promover la agricultura sostenible, o mejorar la accesibilidad de los consumidores estableciendo objetivos, requisitos, roles y responsabilidades de cada uno.</p>
 <h2>Alcance 🚀</h2>
 <p>El alcance de este proyecto  abarca diversas funcionalidades y características destinadas a facilitar la venta de productos agrícolas directamente desde los productores locales a los consumidores finales. 
