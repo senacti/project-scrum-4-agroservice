@@ -1,5 +1,5 @@
 <h1>AgroService</h1>
-![logo4](https://github.com/senacti/project-scrum-4-agroservice/assets/167369251/649d8517-ef34-432e-8056-83ec019365cf)
+![logo4](https://github.com/senacti/project-scrum-4-agroservice/assets/167369251/d7043038-2f06-475c-a569-94fa68889836)
 
 <h2>Objetivo general 🎯</h2>
 <p>Crear una herramienta para los campesinos que les
